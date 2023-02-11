@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - scf_flutter_orientation (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - scf_flutter_orientation (from `.symlinks/plugins/scf_flutter_orientation/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  scf_flutter_orientation:
+    :path: ".symlinks/plugins/scf_flutter_orientation/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  scf_flutter_orientation: 837c41c553f2aba1fbb94453d10b708182e9f098
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.11.3
